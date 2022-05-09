@@ -1,3 +1,9 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<html>
+  <head>
+    <h2>welcome to our company</h2>
+    <h2> we are ready to service you</h2>
+  </head>
+  <body>
+    <img src="https://tse1.mm.bing.net/th?id=OIP.GuvGvO9QUXiToqcnpbJFvQAAAA&pid=Api&P=0&w=301&h=400" />
+  </body>
+</html>
