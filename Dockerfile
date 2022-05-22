@@ -1,3 +1,3 @@
 FROM tomcat:latest
-COPY ./webapp.war /usr/local/tomcat/webapps/webapps.war
+COPY ./webapp.war /usr/local/tomcat/webapps/home/dockeradmin/webapp.war
 RUN cp -r /usr/local/tomcat/webapps.dist/* /usr/local/tomcat/webapps
